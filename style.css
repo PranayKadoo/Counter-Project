@@ -1,0 +1,58 @@
+body{
+    background-color: rgb(1, 32, 32);
+}
+.container{
+    box-shadow: 2px 2px 3px 3px rgb(38, 253, 199);
+    position:absolute;
+    left:25%;
+    right:25%;
+    top:10%;
+background-color: rgb(1, 32, 32);
+    height:400px;
+    width:50%;
+}
+.counterheading{
+    text-align: center;
+    font-family: papyrus;
+    font-size: 35px;
+    color: rgb(38, 253, 199);
+}
+#low{
+    font-size: 2vw;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: rgb(38, 253, 199);
+    color:rgb(1, 32, 32);
+    text-align: center;
+    /* width:40%; */
+    position: absolute;
+    left:15%;
+    right:35%;
+    top:80%;
+    font-family: papyrus;
+
+}
+#up{
+    font-size: 2vw;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: rgb(38, 253, 199);
+    color:rgb(1, 32, 32);
+    text-align: center;
+    /* width:40%; */
+    position: absolute;
+    right:15%;
+    /* left:35%; */
+    top:80%;
+    font-family: papyrus;
+
+
+}
+#count{
+    text-align: center;
+    color: rgb(38, 253, 199);
+    border-radius: 3px  rgb(38, 253, 199);
+    font-size: 200px;
+    font-family: papyrus;
+    position: absolute;
+    top:-45%;
+    left :35%;
+}
